@@ -1,9 +1,16 @@
+/**
+Author : Kobiti-Lambo Jide
+Project : Shopsmart (shoppi.ng)
+jidelambo@gmail.com
+**/
 body {
     height: 1100px;
     padding-top:80px;
     font-family: Open Sans;
 }
-
+.navbar-nav {
+    background: #fff;
+}
 .navbar-collapse {
     position: relative;
     left: 20px;
@@ -99,7 +106,7 @@ form {
     height: 45px;
 }
 .navbar-default {
-    background: none;
+    background: #fff;
     height: 45px;
 }
 /****end nav ***/
