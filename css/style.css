@@ -1,8 +1,7 @@
 body {
-    background: url(../img/shopsmart-header-firstcategory.jpg) no-repeat top;
-    position: relative;
-    opacity: 0.2;
     height: 1100px;
+    padding-top:80px;
+    font-family: Open Sans;
 }
 
 .navbar-collapse {
@@ -16,7 +15,8 @@ body {
     clear: both;
 }
 
-.navbar-nav {
+.navbar {
+    border: 0;
 }
 
 .navbar-nav li {
@@ -105,7 +105,7 @@ form {
 /****end nav ***/
 
 .sidebar {
-    width: 230px;
+    width: auto;
 }
 #main-container {
     display: block;
@@ -120,7 +120,8 @@ form {
     left: 5px;
 }
 .main-slide {
-    width: 712px;
+    width: auto;
+    padding: 0;
 }
 .exclusive H6 {
     font-size: 13px;
@@ -132,7 +133,7 @@ form {
 .exclusive {
     display: block;
     position: relative;
-    background: blue;
+    background: #252d6c;
     width: 205px;
     height: 35px;
     bottom: 14px;
@@ -177,7 +178,7 @@ form {
     color: #5095c7;
 }
 .price-bg {
-    background-color: gray;
+    background-color: #e3e3e3;
     font-size: 13px;
     color: #000;
     padding: 7px
@@ -199,12 +200,17 @@ form {
     position: relative;
     bottom: 7px;
     right: 10px;
+    background: url(..//img/buy-now.png) no-repeat;
+    color: #fff;
+    font-size: 10px;
+    padding: 5px 12px;
 }
 
 .exclusive1 {
     display: block;
     position: relative;
     top: 245px;
+    border-top: 1px solid #dbdada;
 }
 
 .exclusive1 .small {
@@ -233,11 +239,11 @@ form {
     display: block;
     position: relative;
     top: 30px;
-    width: 240px;
+    width: auto;
 }
 
 .side-nav a {
-    font-size: 18px;
+    font-size: 15px;
     display: block;
     position: relative;
     margin-left: 10px;
@@ -279,7 +285,7 @@ form {
     display: block;
     position: relative;
     left: 12px;
-    width: 230px;
+    width: auto;
 }
 .shop-offer {
     display: block;
@@ -287,5 +293,35 @@ form {
     color: #000;
     font-size: 18px;
     font-weight: bold;
+    bottom: 16px;
+    position: relative;
+    background-color: #e3e3e3;
+}
+.shop-offer-text {
+    display: block;
+    font-weight: normal;
+    margin-top: 20px;
+}
+.shop-offer-text p{
+    display: block;
+    font-weight: normal;
+    margin-left: 12px;
+    padding-top: 5px;
+}
+.shop-icon img {
+    display: block;
+    position: relative;
+    left: 75px;
 }
 
+.carousel-control img {
+    display: block;
+    position: relative;
+    top: 150px;
+    left: 46px;
+}
+.left img {
+    display: block;
+    position: relative;
+    left: -5px;
+}
