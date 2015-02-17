@@ -1,0 +1,291 @@
+body {
+    background: url(../img/shopsmart-header-firstcategory.jpg) no-repeat top;
+    position: relative;
+    opacity: 0.2;
+    height: 1100px;
+}
+
+.navbar-collapse {
+    position: relative;
+    left: 20px;
+}
+
+.navbar-nav li img {
+    display: block;
+    position: relative;
+    clear: both;
+}
+
+.navbar-nav {
+}
+
+.navbar-nav li {
+    display: inline-block;
+    position: relative;
+    left: 80px;
+    bottom: 10px;
+}
+.navbar-nav li.second-child {
+    display: inline-block;
+    position: relative;
+    left: 95px;
+    bottom: 20px;
+}
+
+.second-child p {
+    display: block;
+    right: 20px;
+    position: relative;
+    bottom: 2px;
+}
+.navbar-nav li a {
+    font-size: 9px;
+}
+
+.navbar-nav li.third-child {
+    display: block;
+    position: relative;
+    left: 100px;
+    bottom: 20px;
+}
+
+.third-child p {
+    display: block;
+    position: relative;
+    right: 27px;
+    bottom: 5px;
+}
+form {
+    display: block;
+    position: relative;
+    left: 70px;
+}
+.fa-search {
+    background-color: #f1841d;
+    width: 40px;
+    height: 30px;
+    color: #fff;
+    display: block;
+    position: relative;
+    bottom: 8px;
+}
+.form-control {
+    width: 130px;
+}
+.navbar-nav .signing {
+    display: block;
+    position: relative;
+    top: 8px;
+    left: 75px;
+} 
+.brand img {
+    display: block;
+    position: relative;
+    bottom: 30px;
+}
+.signing {
+    background-image: url(../img/sign-in.png);
+    width: 131px;
+    height: 36px;
+}
+.sign-text{
+    font-size: 30px;
+}
+
+#header {
+    display: block;
+    position: relative;
+    padding-bottom: 0;
+    height: 45px;
+}
+.navbar-default {
+    background: none;
+    height: 45px;
+}
+/****end nav ***/
+
+.sidebar {
+    width: 230px;
+}
+#main-container {
+    display: block;
+    margin-top: 12px;
+}
+.list-group-item {
+    border: 0;
+    display: block;
+    position: relative;
+    top: 12px;
+    font-size: 14px;
+    left: 5px;
+}
+.main-slide {
+    width: 712px;
+}
+.exclusive H6 {
+    font-size: 13px;
+    color: #fff;
+    padding-top: 8px;
+    padding-left: 10px;
+    font-style: normal;
+}
+.exclusive {
+    display: block;
+    position: relative;
+    background: blue;
+    width: 205px;
+    height: 35px;
+    bottom: 14px;
+}
+.aside {
+    width: 205px;
+    display: block;
+    position: relative;
+}
+.exclusive img {
+    display: block;
+    position: relative;
+    left: 10px;
+    top: 3px;
+}
+.sony-sales {
+    font-size: 14px;
+    color: #5095c7;
+    font-style: bold;
+    display: block;
+    padding-top: 8px;
+    padding-left: 9px;
+    line-height: 18px;
+}
+.exclusive .small {
+    font-size: 9px;
+    font-style: bold;
+    line-height: 12px;
+    padding-left: 8px;
+    display: block;
+    position: relative;
+    bottom: 8px;
+}
+.exclusive1 .small {
+    font-size: 9px;
+    font-style: bold;
+    color: #000;
+}
+.exclusive1 .sony-sales {
+    font-size: 13px;
+    font-style: bold;
+    color: #5095c7;
+}
+.price-bg {
+    background-color: gray;
+    font-size: 13px;
+    color: #000;
+    padding: 7px
+}
+.price-sm {
+    font-size: 9px;
+    color: red;
+    text-decoration: line-through;
+    margin-left: 2px;
+}
+.prices {
+    display: block;
+    position: relative;
+    bottom: 12px;
+}
+
+.buy-now {
+    display: block;
+    position: relative;
+    bottom: 7px;
+    right: 10px;
+}
+
+.exclusive1 {
+    display: block;
+    position: relative;
+    top: 245px;
+}
+
+.exclusive1 .small {
+    display: block;
+    position: relative;
+    bottom: 10px;
+    left: 8px;
+    color: #000;
+}
+.exclusive1 .prices {
+    display: block;
+    position: relative;
+}
+.exclusive1 .buy-now {
+    display: block;
+    position: relative;
+    left: 4px;
+}
+
+.below-main {
+    display: block;
+    position: relative;
+    top: 25px;
+}
+.below-main .side-nav {
+    display: block;
+    position: relative;
+    top: 30px;
+    width: 240px;
+}
+
+.side-nav a {
+    font-size: 18px;
+    display: block;
+    position: relative;
+    margin-left: 10px;
+    margin-right: 20px;
+    
+}
+.movie-posters {
+    display: block;
+    position: relative;
+    width: auto;
+    padding: 0;
+}
+.movie-posters img {
+    display: block;
+    position: relative;
+    right: 10px;
+    margin: 3px;
+}
+
+.more-movies {
+    font-size: 18px;
+    font-style: normal;
+    color: #063a86; 
+}
+
+.movie-posters .pull-right {
+    font-size: 11px;
+    color: #063a86;
+    display: block;
+    position: relative;
+}
+.movie-notice {
+    display: block;
+    position: relative;
+    width: 100%;
+}
+
+.exclusive2 {
+    display: block;
+    position: relative;
+    left: 12px;
+    width: 230px;
+}
+.shop-offer {
+    display: block;
+    height: 40px;
+    color: #000;
+    font-size: 18px;
+    font-weight: bold;
+}
+
